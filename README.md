@@ -2,7 +2,6 @@
 
 **Project Summary and Overview**
 
-**Project Title:** Streamlined Meeting Transcript Summarizer
 
 **Overview:**
 
